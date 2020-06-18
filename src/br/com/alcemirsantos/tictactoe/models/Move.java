@@ -1,4 +1,4 @@
-package br.ufpi.poo.tictactoe.models;
+package br.com.alcemirsantos.tictactoe.models;
 
 public class Move {
 

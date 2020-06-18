@@ -1,10 +1,10 @@
-package br.ufpi.poo.tictactoe.models;
+package br.com.alcemirsantos.tictactoe.models;
 
 import java.util.ArrayList;
 import java.util.List;
 
-import br.ufpi.poo.tictactoe.exceptions.InvalidPositionException;
-import br.ufpi.poo.tictactoe.exceptions.InvalidSymbolException;
+import br.com.alcemirsantos.tictactoe.exceptions.InvalidPositionException;
+import br.com.alcemirsantos.tictactoe.exceptions.InvalidSymbolException;
 
 public class Game {
 

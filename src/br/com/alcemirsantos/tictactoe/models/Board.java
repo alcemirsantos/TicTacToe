@@ -1,9 +1,9 @@
-package br.ufpi.poo.tictactoe.models;
+package br.com.alcemirsantos.tictactoe.models;
 
 import java.util.HashMap;
 import java.util.Map;
 
-import br.ufpi.poo.tictactoe.exceptions.InvalidPositionException;
+import br.com.alcemirsantos.tictactoe.exceptions.InvalidPositionException;
 
 public class Board {
 

@@ -1,11 +1,11 @@
-package br.ufpi.poo.tictactoe.tests;
+package br.com.alcemirsantos.tictactoe.tests;
 
 import static org.junit.Assert.assertTrue;
 
 import org.junit.Before;
 import org.junit.Test;
 
-import br.ufpi.poo.tictactoe.models.Game;
+import br.com.alcemirsantos.tictactoe.models.Game;
 
 public class GameSetupTest {
 

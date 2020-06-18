@@ -1,15 +1,15 @@
-package br.ufpi.poo.tictactoe.tests;
+package br.com.alcemirsantos.tictactoe.tests;
 
 import static org.junit.Assert.assertTrue;
 
 import org.junit.Before;
 import org.junit.Test;
 
-import br.ufpi.poo.tictactoe.exceptions.InvalidPositionException;
-import br.ufpi.poo.tictactoe.exceptions.InvalidSymbolException;
-import br.ufpi.poo.tictactoe.models.Game;
-import br.ufpi.poo.tictactoe.models.Move;
-import br.ufpi.poo.tictactoe.models.Position;
+import br.com.alcemirsantos.tictactoe.exceptions.InvalidPositionException;
+import br.com.alcemirsantos.tictactoe.exceptions.InvalidSymbolException;
+import br.com.alcemirsantos.tictactoe.models.Game;
+import br.com.alcemirsantos.tictactoe.models.Move;
+import br.com.alcemirsantos.tictactoe.models.Position;
 
 public class MovementTest {
 

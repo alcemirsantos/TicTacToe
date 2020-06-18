@@ -1,14 +1,14 @@
-package br.ufpi.poo.tictactoe;
+package br.com.alcemirsantos.tictactoe;
 
 import java.util.Map.Entry;
 import java.util.Scanner;
 
-import br.ufpi.poo.tictactoe.exceptions.InvalidPositionException;
-import br.ufpi.poo.tictactoe.exceptions.InvalidSymbolException;
-import br.ufpi.poo.tictactoe.models.Board;
-import br.ufpi.poo.tictactoe.models.Game;
-import br.ufpi.poo.tictactoe.models.Move;
-import br.ufpi.poo.tictactoe.models.Position;
+import br.com.alcemirsantos.tictactoe.exceptions.InvalidPositionException;
+import br.com.alcemirsantos.tictactoe.exceptions.InvalidSymbolException;
+import br.com.alcemirsantos.tictactoe.models.Board;
+import br.com.alcemirsantos.tictactoe.models.Game;
+import br.com.alcemirsantos.tictactoe.models.Move;
+import br.com.alcemirsantos.tictactoe.models.Position;
 
 public class Main {
 

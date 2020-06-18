@@ -1,4 +1,4 @@
-package br.ufpi.poo.tictactoe.exceptions;
+package br.com.alcemirsantos.tictactoe.exceptions;
 
 @SuppressWarnings("serial")
 public class InvalidPositionException extends Exception {

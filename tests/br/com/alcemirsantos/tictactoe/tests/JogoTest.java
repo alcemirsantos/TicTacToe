@@ -1,4 +1,4 @@
-package br.ufpi.poo.tictactoe.tests;
+package br.com.alcemirsantos.tictactoe.tests;
 
 import org.junit.runner.RunWith;
 import org.junit.runners.Suite;
